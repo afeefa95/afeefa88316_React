@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "root",
+    "port": "3333",
+    "database": "mydb4may",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
